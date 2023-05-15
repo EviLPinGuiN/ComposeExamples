@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeApplication</string>
+
+    <string name="screen_settings">Settings</string>
+    <string name="screen_main">Main</string>
+    <string name="screen_cart">Cart</string>
+</resources>
